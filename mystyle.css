@@ -419,6 +419,14 @@ video {
         
 }
 
+@media (max-width: 768px) {
+
+    .header-Topic2 {
+        text-shadow: 5px 2px 0px rgba(0, 0, 0, 0.7);
+    }
+
+}
+
 .Journey1{
     padding: 60px;
     text-align: center;
